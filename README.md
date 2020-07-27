@@ -2,12 +2,16 @@
 
 # DesignPatterns
 
-There are 23 Design Pattrens and they can devide into 3 types by the :
+There are 23 Design Pattrens and they can devide into 3 types by the goal of used:
 
 - Creational(5)
 - Structural(7)
 - Behaioral(11)
 
+Or by the range of used they can devider into:
+
+- Class Pattern: 
+- Object Pattern
 
 ## Types
 
@@ -25,7 +29,7 @@ There are 23 Design Pattrens and they can devide into 3 types by the :
             <td rowspan='2'>Range</td>
             <td>Class</td>
             <td>Factory Method</td>
-            <td>Adapter</td>
+            <td  href='adapter.md'>Adapter</td>
             <td>
                 Interpreter</br>
                 Template Method
@@ -96,8 +100,8 @@ There are 23 Design Pattrens and they can devide into 3 types by the :
             <td>Only one instance of a class.</td>
         </tr>
         <tr style="border-top-style:inset;border-top:thick signle #ff0000;">
-            <td rowspan='7'>Creational</td>
-            <td>Adapter</td>
+            <td rowspan='7'>Structural</td>
+            <td><a href='adapter.md'>Adapter</a></td>
             <td>Interface between class or object</td>
         </tr>
         <tr>
@@ -171,8 +175,3 @@ There are 23 Design Pattrens and they can devide into 3 types by the :
         </tr>
     </tbody>
 </table>
-
-
-
-### [结构]
-##### [Adapter 适配器模式](./adapter.md)
