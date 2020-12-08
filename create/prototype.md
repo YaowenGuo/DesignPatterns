@@ -29,4 +29,8 @@
 
 
 
+## 相关模式
+
+Abstract Factory 和 Prototype 在某些方面是竞争的，但是也可以合作应用。竞争是他们都能用于创建对象。合作是，通常使用 Prototype 实现 Abstract Factory 来减少类的定义。
+
 
