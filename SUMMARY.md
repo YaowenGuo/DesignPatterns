@@ -1,14 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* [Create Type](machinelearning.md)
+* [Creational Patterns](create/README.md)
   * [Abstract Factory](create/abstract-factory.md)
   * [Builder](create/builder.md)
   * [Factory Method](create/factory_method.md)
   * [Prototype](create/prototype.md)
   * [Singleton](create/singleton.md)
-* Structure
-  * [Adapter]
+* [Structural Patterns](structural_patterns/README.md)
+  * [Adapter](structural_patterns/adapter.md)
 * Action
 
 
