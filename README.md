@@ -233,3 +233,16 @@ Or by the range of used they can devider into:
         </tr>
     </tbody>
 </table>
+
+
+## 从哪些维度评判代码质量的好坏
+
+可维护性
+
+可读
+
+可扩展性
+
+
+
+
