@@ -87,7 +87,7 @@ Or by the range of used they can devider into:
             <td rowspan='2'>Range</td>
             <td>Class</td>
             <td>Factory Method</td>
-            <td  href='adapter.md'>Adapter</td>
+            <td>Adapter</td>
             <td>
                 Interpreter</br>
                 Template Method
@@ -138,28 +138,28 @@ Or by the range of used they can devider into:
     <tbody>
         <tr style="border-top-style:inset;border-top:thick signle #ff0000;">
             <td rowspan='5'>Creational</td>
-            <td>Abstract Factory</td>
+            <td><a href='create/abstract-factory.md'>Abstract Factory</a></td>
             <td>The families of productor.</td>
         </tr>
         <tr>
-            <td>Builder</td>
+            <td><a href='create/builder.md'>Builder</a></td>
             <td>How to create a combination object.</td>
         </tr>
         <tr>
-            <td>Factory Method</td>
+            <td><a href='create/factory_method.md'>Factory Method</a></td>
             <td>Create subclass object.</td>
         </tr>
         <tr>
-            <td>Prototype</td>
+            <td><a href="create/prototype.md">Prototype</a></td>
             <td>Create object.</td>
         </tr>
         <tr>
-            <td>Singleton</td>
+            <td><a href='create/singleton.md'>Singleton</a></td>
             <td>Only one instance of a class.</td>
         </tr>
         <tr style="border-top-style:inset;border-top:thick signle #ff0000;">
             <td rowspan='7'>Structural</td>
-            <td><a href='adapter.md'>Adapter</a></td>
+            <td><a href='structural_patterns/adapter.md'>Adapter</a></td>
             <td>Interface between class or object</td>
         </tr>
         <tr>
