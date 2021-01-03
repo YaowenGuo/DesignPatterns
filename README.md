@@ -163,7 +163,7 @@ Or by the range of used they can devider into:
             <td>Interface between class or object</td>
         </tr>
         <tr>
-            <td>Bridge</td>
+            <td><a href='structural_patterns/bridge.md'>Bridge</a></td>
             <td>Implement of object</td>
         </tr>
         <tr>

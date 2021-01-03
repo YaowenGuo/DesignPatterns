@@ -9,6 +9,7 @@
   * [Singleton](create/singleton.md)
 * [Structural Patterns](structural_patterns/README.md)
   * [Adapter](structural_patterns/adapter.md)
+  * [Bridge](structural_patterns/bridge.md)
 * Action
 
 
