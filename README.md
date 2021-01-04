@@ -167,7 +167,7 @@ Or by the range of used they can devider into:
             <td>Implement of object</td>
         </tr>
         <tr>
-            <td>Composite</td>
+            <td><a href='structural_patterns/composite.md'>Composite</a></td>
             <td>The structure and compose of an object</td>
         </tr>
         <tr>
